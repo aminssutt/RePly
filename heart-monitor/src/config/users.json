@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "email": "test@example.com",
+      "password": "password123",
+      "weight": "70",
+      "height": "175",
+      "age": "25",
+      "gender": "male",
+      "activityLevel": "moderate"
+    }
+  ]
+} 
